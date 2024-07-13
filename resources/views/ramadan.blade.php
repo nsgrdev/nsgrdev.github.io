@@ -49,7 +49,7 @@
                     <li><strong>Category</strong>: Mobile App</li>
                     <li><strong>Client</strong>: <a href="https://instagram.com/nsgrdevelopment">@nsgrdevelopment</a></li>
                     <li><strong>Project date</strong>: 7 Mei 2024 - sekarang</li>
-                    <li><strong>Project URL</strong>: <a href="https://drive.google.com/drive/folders/1HmiBN2JbUNQ8Sb2-vrd8RtRwaoJ4UaTp?usp=drive_link">Unduh Aplikasi</a></li>
+                    <li><strong>Project URL</strong>: <a href="https://drive.google.com/drive/folders/1HmiBN2JbUNQ8Sb2-vrd8RtRwaoJ4UaTp?usp=drive_link">Unduh Aplikasi via Google Drive</a></li>
                 </ul>
                 </div>
                 <div class="portfolio-description">
