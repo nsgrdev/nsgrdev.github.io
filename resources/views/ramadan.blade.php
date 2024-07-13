@@ -37,6 +37,14 @@
                     <img src="img/portfolio/RDT-2.png" alt="">
                     </div>
 
+                    <div class="swiper-slide">
+                    <img src="img/portfolio/RDT-3.png" alt="">
+                    </div>
+
+                    <div class="swiper-slide">
+                    <img src="img/portfolio/RDT-4.png" alt="">
+                    </div>
+
                 </div>
                 <div class="swiper-pagination"></div>
                 </div>
