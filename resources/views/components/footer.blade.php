@@ -7,7 +7,7 @@
             <div class="footer-info">
               <h3>NSGR Development<span>.</span></h3>
               <p>
-                Hanya Tempat Laporan Karya Kami. Masih dalam tahap pengembangan.<br><br>
+                Hanya Tempat Laporan Karya Kami. <br>Masih dalam tahap pengembangan.<br><br>
                 <!-- <strong>Phone:</strong> +1 5589 55488 55<br> -->
                 <strong>Email:</strong> nsgrdevelopment@gmail.com<br>
               </p>
