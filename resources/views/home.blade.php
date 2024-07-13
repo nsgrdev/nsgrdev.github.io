@@ -180,7 +180,7 @@
             <div class="text-center">
             <h3>Let's make your business website</h3>
             <p>Ubah kehadiran online Anda dengan situs web yang dibuat khusus yang menampilkan kekuatan unik bisnis Anda. Di NSGR Development, kami mengkhususkan diri dalam membuat situs web yang sangat fungsional dan menakjubkan secara visual yang disesuaikan untuk memenuhi kebutuhan spesifik bisnis Anda.</p>
-            <a class="cta-btn" href="https://wa.me/6285162919993?text=Hello%2c%20NSGR%20Development%21">Chat With Us</a>
+            <a class="cta-btn" href="https://ig.me/m/nsgrdevelopment">Chat With Us</a>
             </div>
 
         </div>

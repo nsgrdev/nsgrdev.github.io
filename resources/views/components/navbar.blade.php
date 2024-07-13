@@ -18,7 +18,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="https://wa.me/6285162919993?text=Hello%2c%20NSGR%20Development%21" class="get-started-btn scrollto">Get Started</a>
+      <a href="https://ig.me/m/nsgrdevelopment" class="get-started-btn scrollto">Get Started</a>
 
     </div>
   </header><!-- End Header -->
